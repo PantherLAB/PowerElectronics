@@ -19,14 +19,25 @@
 			<Item Name="Leer.vi" Type="VI" URL="../Leer.vi"/>
 		</Item>
 		<Item Name="Notifiers" Type="Folder">
+			<Item Name="Espera notificacion.vi" Type="VI" URL="../Espera notificacion.vi"/>
 			<Item Name="Notificador.vi" Type="VI" URL="../Notificador.vi"/>
 		</Item>
 		<Item Name="Queues" Type="Folder">
 			<Item Name="Dequeue.vi" Type="VI" URL="../Dequeue.vi"/>
 			<Item Name="Queues.vi" Type="VI" URL="../Queues.vi"/>
 		</Item>
-		<Item Name="Espera notificacion.vi" Type="VI" URL="../Espera notificacion.vi"/>
-		<Item Name="Dependencies" Type="Dependencies"/>
+		<Item Name="User Events" Type="Folder">
+			<Item Name="FGV User Event Numero.vi" Type="VI" URL="../../../Customers/JVISystems/Control-Acceso/src/Libraries/Hardware/Configuration/FGV User Event Numero.vi"/>
+			<Item Name="Fire USER EVents.vi" Type="VI" URL="../../../Customers/JVISystems/Control-Acceso/src/Libraries/Hardware/Configuration/Fire USER EVents.vi"/>
+			<Item Name="User Events.vi" Type="VI" URL="../../../Customers/JVISystems/Control-Acceso/src/Libraries/Hardware/Configuration/User Events.vi"/>
+		</Item>
+		<Item Name="User Events copy.vi" Type="VI" URL="../../../Customers/JVISystems/Control-Acceso/src/Libraries/Hardware/Configuration/User Events copy.vi"/>
+		<Item Name="Dependencies" Type="Dependencies">
+			<Item Name="vi.lib" Type="Folder">
+				<Item Name="lveventtype.ctl" Type="VI" URL="/&lt;vilib&gt;/event_ctls.llb/lveventtype.ctl"/>
+				<Item Name="LVTextColorsTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVTextColorsTypeDef.ctl"/>
+			</Item>
+		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
 </Project>
