@@ -1,0 +1,15 @@
+07:29:34.026 a. m. 04/06/2025	 Event:Did Something	 Type: Broadcast	 Removed from: FunctionGenerator.lvlib	 TypeSingleton
+07:29:35.241 a. m. 04/06/2025	 Event:Do Something	 Type: Request	 Removed from: FunctionGenerator.lvlib	 TypeSingleton
+07:29:36.442 a. m. 04/06/2025	 Event:Do Something Else	 Type: Request	 Removed from: FunctionGenerator.lvlib	 TypeSingleton
+07:29:37.611 a. m. 04/06/2025	 Event:Do Something Else and Wait for Reply	 Type: Request and Wait	 Removed from: FunctionGenerator.lvlib	 TypeSingleton
+07:29:40.407 a. m. 04/06/2025	 New Module added, Name: FunctionGenerator	 Type: Singleton	 Description: 
+07:31:05.179 a. m. 04/06/2025	 New Event added to: FunctionGenerator.lvlib	 Type: Singleton	 Name:Set Amplitude	 Type:Request	 Scope:Public Request	 Description: Set Amplitude
+07:32:44.799 a. m. 04/06/2025	 New Event added to: FunctionGenerator.lvlib	 Type: Singleton	 Name:Set Offset	 Type:Request	 Scope:Public Request	 Description: Set Offset
+07:35:03.692 a. m. 04/06/2025	 New Event added to: FunctionGenerator.lvlib	 Type: Singleton	 Name:Set Frecuency	 Type:Request	 Scope:Public Request	 Description: Set Frecuency
+07:36:43.602 a. m. 04/06/2025	 New Event added to: FunctionGenerator.lvlib	 Type: Singleton	 Name:Set Signal Type	 Type:Request	 Scope:Public Request	 Description: Set Signal Type
+07:39:55.013 a. m. 04/06/2025	 New Event added to: FunctionGenerator.lvlib	 Type: Singleton	 Name:Get Waveform	 Type:Request and Wait for Reply	 Scope:Public Request	 Description: Get waveform
+07:43:29.832 a. m. 04/06/2025	 New Event added to: FunctionGenerator.lvlib	 Type: Singleton	 Name:Waveform Acquired	 Type:Broadcast	 Scope:Public Request	 Description: Waveform Acquired
+07:46:13.158 a. m. 04/06/2025	 Helper Loop added to: "FunctionGenerator.lvlib:"	 named: "Continuous Waveform Genearation HL"
+07:50:38.034 a. m. 04/06/2025	 New Event added to: FunctionGenerator.lvlib	 Type: Singleton	 Name:Wake UP Continuous HL	 Type:Request	 Scope:Private Request	 Description: Wake UP Continuous HL
+07:58:40.505 a. m. 04/06/2025	 New Event added to: FunctionGenerator.lvlib	 Type: Singleton	 Name:Start Continuous Acquisition	 Type:Request	 Scope:Public Request	 Description: 
+08:15:18.346 a. m. 04/06/2025	 New Event added to: FunctionGenerator.lvlib	 Type: Singleton	 Name:Stop Continuous Generation	 Type:Request	 Scope:Public Request	 Description: 
