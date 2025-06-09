@@ -1,0 +1,11 @@
+07:08:04.803 a. m. 09/06/2025	 Event:Did Something	 Type: Broadcast	 Removed from: My Singleton Module.lvlib	 TypeSingleton
+07:08:06.822 a. m. 09/06/2025	 Event:Do Something	 Type: Request	 Removed from: My Singleton Module.lvlib	 TypeSingleton
+07:08:08.287 a. m. 09/06/2025	 Event:Do Something Else	 Type: Request	 Removed from: My Singleton Module.lvlib	 TypeSingleton
+07:08:09.598 a. m. 09/06/2025	 Event:Do Something Else and Wait for Reply	 Type: Request and Wait	 Removed from: My Singleton Module.lvlib	 TypeSingleton
+07:08:10.932 a. m. 09/06/2025	 Event:Did Something	 Type: Broadcast	 Removed from: My Cloneable Module.lvlib	 TypeCloneable
+07:08:12.633 a. m. 09/06/2025	 Event:Do Something	 Type: Request	 Removed from: My Cloneable Module.lvlib	 TypeCloneable
+07:08:14.259 a. m. 09/06/2025	 Event:Do Something Else	 Type: Request	 Removed from: My Cloneable Module.lvlib	 TypeCloneable
+07:08:15.818 a. m. 09/06/2025	 Event:Do Something Else and Wait for Reply	 Type: Request and Wait	 Removed from: My Cloneable Module.lvlib	 TypeCloneable
+07:08:33.839 a. m. 09/06/2025	 Module:"My Singleton Module.lvlib"	 Renamed to-> "Singleton.lvlib"
+07:08:51.268 a. m. 09/06/2025	 Module:"My Cloneable Module.lvlib"	 Renamed to-> "Cloneable.lvlib"
+07:11:33.445 a. m. 09/06/2025	 New Event added to: Cloneable.lvlib	 Type: Cloneable	 Name:Request Privado Local	 Type:Request	 Scope:Local Instance	 Description: 
